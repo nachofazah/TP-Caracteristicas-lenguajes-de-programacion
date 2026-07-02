@@ -1,4 +1,4 @@
-# Trabajos Prácticos - Paradigmas y Lenguajes de Programación
+# Trabajos Prácticos - Caracteristicas Lenguajes de Programación
 
 ## Contenido
 
