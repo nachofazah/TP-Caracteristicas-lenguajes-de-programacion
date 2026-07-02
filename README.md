@@ -1,17 +1,8 @@
 # Trabajos Prácticos - Paradigmas y Lenguajes de Programación
 
-Este repositorio contiene la resolución de los trabajos prácticos realizados para la materia.
-
-Repositorio/
-├── README.md
-├── TP 1 - Lenguajes y caracteristicas/
-├── TP 2 - Dataset/
-├── TP 3 - Problemas en dif paradigma/
-├── TP 4 - Sentencia IF/
-├── TP 5 - GIC BNF EBNF ABNF - BRA/
-└── TP 6 - Mapa
-
 ## Contenido
+
+Este repositorio contiene la resolución de los trabajos prácticos realizados para la materia.
 
 - **TP 1 - Lenguajes y características**
 
